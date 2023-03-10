@@ -6,7 +6,6 @@
 - Laravel Snippets
 - MySQL
 - PHP Intelephense
-- RapidAPI Client
 
 ## Snippets
 
