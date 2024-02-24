@@ -4,7 +4,6 @@
 
 - Laravel Artisan
 - Laravel Snippets
-- MySQL
 - PHP Intelephense
 
 ## Snippets

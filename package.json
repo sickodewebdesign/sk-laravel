@@ -13,7 +13,7 @@
   },
   "publisher": "sickodewebdesign",
   "repository": "https://github.com/sickodewebdesign/sk-laravel",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "license": "MIT",
   "engines": {
     "vscode": "^1.70.0"
@@ -31,7 +31,6 @@
   "extensionPack": [
     "ryannaddy.laravel-artisan",
     "onecentlin.laravel5-snippets",
-    "cweijan.vscode-mysql-client2",
     "bmewburn.vscode-intelephense-client"
   ],
   "contributes": {
