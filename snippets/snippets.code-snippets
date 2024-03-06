@@ -1,19 +1,26 @@
 {
-  "PHP public method": {
+  "PHP public function": {
     "scope": "php",
-    "prefix": "met",
+    "prefix": "pubf",
     "body": [
       "public function ${1:name}(${2:parameters}): ${3:type}\n{\n\t${4:// body}\n}"
     ],
-    "description": "New public method"
+    "description": "Public function"
   },
-
-  "PHP private method": {
+  "PHP protected function": {
     "scope": "php",
-    "prefix": "_met",
+    "prefix": "prof",
     "body": [
-      "private function _${1:name}(${2:parameters}): ${3:type}\n{\n\t${4:// body}\n}"
+      "protected function ${1:name}(${2:parameters}): ${3:type}\n{\n\t${4:// body}\n}"
     ],
-    "description": "New private method"
+    "description": "Protected function"
+  },
+  "PHP private function": {
+    "scope": "php",
+    "prefix": "prif",
+    "body": [
+      "private function ${1:name}(${2:parameters}): ${3:type}\n{\n\t${4:// body}\n}"
+    ],
+    "description": "Private function"
   }
 }

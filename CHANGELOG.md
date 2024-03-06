@@ -1,5 +1,9 @@
 # Change Log
 
+## v1.0.3
+
+- Update snippets
+
 ## v1.0.2
 
 - Remove MySQL

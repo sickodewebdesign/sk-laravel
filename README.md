@@ -8,5 +8,6 @@
 
 ## Snippets
 
-- met (New public method)
-- \_met (New private method)
+- pubf (Public function)
+- prof (Protected function)
+- prif (Private function)
