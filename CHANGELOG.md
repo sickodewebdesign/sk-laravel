@@ -1,5 +1,16 @@
 # Change Log
 
+## v1.1.0
+
+- Add Alpine.js IntelliSense
+- Add DotENV
+- Add laravel-jump-controller
+- Add laravel-goto-components
+- Add Laravel Blade formatter
+- Add Laravel Blade Snippets
+- Add Laravel Extra Intellisense
+- Add Livewire Language Support
+
 ## v1.0.3
 
 - Update snippets
