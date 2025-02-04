@@ -1,7 +1,7 @@
 {
   "name": "sk-laravel",
   "displayName": "SK Laravel",
-  "description": "Sic Kode Web Design Laravel Extension Pack",
+  "description": "Sic Kode Laravel Extension Pack",
   "icon": "icon.png",
   "galleryBanner": {
     "color": "#3B82F6",
@@ -11,9 +11,9 @@
     "name": "Sergiu Waxmann",
     "email": "sergiu@sickode.com"
   },
-  "publisher": "sickodewebdesign",
+  "publisher": "sickode",
   "repository": "https://github.com/sickodewebdesign/sk-laravel",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "license": "MIT",
   "engines": {
     "vscode": "^1.70.0"
@@ -26,6 +26,10 @@
     "Sic Kode",
     "Sic Kode Web Design",
     "SK Laravel",
+    "Sic Kode Laravel",
+    "Sic Kode Web Design Laravel",
+    "SK Laravel Extension Pack",
+    "Sic Kode Laravel Extension Pack",
     "Sic Kode Web Design Laravel Extension Pack"
   ],
   "extensionPack": [

@@ -1,4 +1,4 @@
-# **Sic Kode Web Design** Laravel Extension Pack
+# **Sic Kode** Laravel Extension Pack
 
 ## Extensions
 

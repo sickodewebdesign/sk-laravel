@@ -1,5 +1,9 @@
 # Change Log
 
+## v1.1.1
+
+- Change publisher
+
 ## v1.1.0
 
 - Add Alpine.js IntelliSense
